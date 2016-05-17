@@ -14,7 +14,7 @@ void loop(){
   digitalWrite(red, LOW);
   display(500);
   
-  for(int i=0; i){
+  for(int i=0; i<=4; i++){
   digitalWrite(yellow, HIGH);
   display(1000);
   digitalWrite(yellow, LOW);
